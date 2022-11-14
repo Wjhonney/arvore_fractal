@@ -1,4 +1,4 @@
-# Árvore frectal
+# Árvore fractal
  A árvore fractal é um exemplo de fractal autossimilar, é uma figura que necessita de uma pilha de processos ou de alguma estrutura de dados auxiliar, similar a pilha de processos.
  
 ## Como mudar o nível?
